@@ -40,13 +40,19 @@
 
 .conteudoPrincipal-cursos{
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+    flex-wrap: wrap;   
 }
 
-
-conteudoPrincipal-cursos-link{
+.conteudoPrincipal-cursos-link{
     width: 23%;
+    margin-bottom:1%;
 }
 
-   
+.conteudoPrincipal-cursos-link:nth-child(4n){/*essa propriedade tira o espaçamento do lado direito*/
+    margin-right:0; 
+}
+
+
+.conteudoPrincipal-cursos-link:nth-child(4n+1){/*essa propriedade tira o espaçamento do lado esquerdo*/
+    margin-right:0; 
+}
