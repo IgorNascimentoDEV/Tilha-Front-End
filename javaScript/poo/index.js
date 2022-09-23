@@ -1,4 +1,5 @@
 import { Cliente } from "./Cliente.js";
+import { Conta } from "./Conta.js";
 import { ContaCorrente} from "./ContaCorrente.js";
 import { ContaPoupanca } from "./ContaPoupanca.js";
 
@@ -33,3 +34,5 @@ console.log(conta1);
 
 //imprimindo a quantidaes de contas criadas 
 console.log(ContaCorrente.numeroDeContas);
+
+    

@@ -2,6 +2,11 @@ export class Conta{
  
     //metodo construtor de Conta s
     constructor(saldoInicial, cliente, agencia){
+        //abstraindo a classe Conta "Forçando ERROR"
+        if(this.constructor == Conta){
+        throw new Error ("Voçê não pode insatanciar esse objeto do tipo conta")
+        }
+
         this._saldo = saldoInicial;
         this._cliente = cliente;
         this._agencia = agencia;
