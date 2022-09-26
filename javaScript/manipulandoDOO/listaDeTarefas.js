@@ -1,3 +1,5 @@
+import BotaoConclui from './componentes/concluiTarefa.js'
+import BotaoDeleta from './componentes/deletarTarefa.js'
 //funçaõ responsavel por criar tarefas
 function criarTarefa(evento){
 
@@ -15,6 +17,8 @@ function criarTarefa(evento){
 
     tarefa.innerHTML = conteudo; //método responsavel por colocar ele texto no html
 
+    tarefa.appendChild(BotaoConclui()); // metodo responsavel por adicionar butão 
+    tarefa.appendChild(BotaoDeleta());
     lista.appendChild(tarefa); //metodo responsavel por adicionar elemento html dentro de outro elemento
     input.value = '';
 }
