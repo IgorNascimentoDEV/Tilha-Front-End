@@ -1,0 +1,97 @@
+[33mcommit da27bd5f454c3d13ee4a5c2d8ebc5de454b20592[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: df205eb ee6830b
+Author: igor <diegoigor2001@gmail.com>
+Date:   Tue Sep 27 15:44:54 2022 -0300
+
+    Merge branch 'main' of https://github.com/IgorNascimentoDEV/Tilha-Front-End
+
+[33mcommit df205eb1efdbd9dbdc728c0fae4cd01563e38cce[m
+Author: igor <diegoigor2001@gmail.com>
+Date:   Tue Sep 27 15:44:08 2022 -0300
+
+    aula de armazenamento de dados JS
+
+[33mcommit ee6830b7813fa1934db5c83805e3b7d2d99babaa[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Igor Nascimento <103793795+IgorNascimentoDEV@users.noreply.github.com>
+Date:   Mon Sep 26 08:43:39 2022 -0300
+
+    Update README.md
+
+[33mcommit a2c937d5fe4721b9d0bc707e7a3743a578c22bbd[m
+Author: igor <diegoigor2001@gmail.com>
+Date:   Mon Sep 26 08:42:51 2022 -0300
+
+    finalizando o curso de manipulação do DOM
+
+[33mcommit ea701181185f35416d6b83bbbbaa4a11e55d8766[m
+Merge: 19d353c 22b7a69
+Author: igor <diegoigor2001@gmail.com>
+Date:   Sun Sep 25 11:26:46 2022 -0300
+
+    Merge branch 'main' of https://github.com/IgorNascimentoDEV/Tilha-Front-End
+
+[33mcommit 19d353c458964452af732aec9d08a911d81ef15f[m
+Author: igor <diegoigor2001@gmail.com>
+Date:   Sun Sep 25 11:25:47 2022 -0300
+
+    curso manipulando o DOM
+
+[33mcommit 22b7a693741791ca283f76a2d836784967180ab8[m
+Author: Igor Nascimento <103793795+IgorNascimentoDEV@users.noreply.github.com>
+Date:   Fri Sep 23 21:37:17 2022 -0300
+
+    Update README.md
+
+[33mcommit cb60496b88ceee7864f65a65cc5d3371d1d44ea7[m
+Author: Igor Nascimento <103793795+IgorNascimentoDEV@users.noreply.github.com>
+Date:   Fri Sep 23 21:13:39 2022 -0300
+
+    Update README.md
+
+[33mcommit 8f1831f2fe040cc8234395c38672f2e5974be230[m
+Author: igor <diegoigor2001@gmail.com>
+Date:   Fri Sep 23 21:07:47 2022 -0300
+
+    finalizando curso de poo
+
+[33mcommit 598db4d20f6b96fd18c4cd41e484645f4464c9a5[m
+Author: igor <diegoigor2001@gmail.com>
+Date:   Fri Sep 23 14:19:01 2022 -0300
+
+    cpmmit
+
+[33mcommit 26eabf3eaeea72f6e678a561f65378da9f4bdca4[m
+Author: igor <diegoigor2001@gmail.com>
+Date:   Fri Sep 23 11:01:06 2022 -0300
+
+    aula de herença
+
+[33mcommit 69867743af012508cac6f80524298db44e3dfde2[m
+Author: igor <diegoigor2001@gmail.com>
+Date:   Thu Sep 22 22:38:10 2022 -0300
+
+    finalçizando primeira parte de orientação a objetpos em JS
+
+[33mcommit 64b3195fb77e0dcd57f83dcbab4c94f27f6cccb5[m
+Author: igor <diegoigor2001@gmail.com>
+Date:   Thu Sep 22 11:10:58 2022 -0300
+
+    atualizando curso de javaScript
+
+[33mcommit a5ab90790b6ed5d9aa8199aadf95b361bfb53436[m
+Author: igor <diegoigor2001@gmail.com>
+Date:   Wed Sep 21 14:36:24 2022 -0300
+
+    aula 03 finalizada
+
+[33mcommit 146dc6e2389405eb6c082b71f592aeb1fb6f5ff2[m
+Author: igor <diegoigor2001@gmail.com>
+Date:   Tue Sep 20 10:51:39 2022 -0300
+
+    curso de flex-box
+
+[33mcommit e3a338e8919c2f01587d1c4703858f23d9cc46f2[m
+Author: Igor Nascimento <103793795+IgorNascimentoDEV@users.noreply.github.com>
+Date:   Tue Sep 20 10:47:17 2022 -0300
+
+    Initial commit
