@@ -23,7 +23,7 @@ import BotaoDeleta from './componentes/deletaTarefa.js'
 
 
     //Um problema do Sessin Storage armazena dados enquanto o servidor esta aberto.
-    sessionStorage.setItem("tarefa", JSON.stringify(dados)) //metodo utilizado para captura oque o usuario digitou e guarda no session Storage
+    localStorage.setItem("tarefa", JSON.stringify(dados)) //metodo utilizado para captura oque o usuario digitou e guarda no session Storage
 
     input.value = " "
     
