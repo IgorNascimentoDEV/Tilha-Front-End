@@ -1,0 +1,78 @@
+.banner__imagem{
+    width: 100%;
+    background: url('../../img/banner.jpg') no-repeat center / cover;
+}
+
+.banner__titulo{
+    font-family: Pacifico, cursive;
+    color:#fdfdfd;
+    position: absolute;
+    left: 50%;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
+    top:50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+
+.banner{
+    position: relative;
+}
+
+.sobre{
+    text-align: center;
+}
+
+.sobre__titulo{
+    color: #8d0606;
+    font-family: Pacifico, cursive;
+}
+
+.sobre__descricao{
+    color: #595959;
+
+    font-weight: 100;
+}
+
+@media screen and (min-width:0) {
+    .banner__titulo{
+        font-size: 2rem;
+    }
+
+    .banner__imagem{
+        height: calc(90vh - 51px);
+    }
+
+    .sobre{
+        padding: 1.5rem 1rem;
+    }
+
+    .sobre__titulo{
+        font-size: 1.3rem;
+    }
+
+    .sobre__descricao{
+        font-size: .90rem;
+    }
+}
+
+@media screen and (min-width:768px){
+    .banner__titulo{
+        font-size: 3.0625rem;
+    }
+
+    .banner__imagem{
+        height:calc(90vh - 80px);
+    }
+
+    .sobre{
+        padding: 2.5rem;
+    }
+    .sobre__titulo{
+        font-size: 1.58755rem;
+    }
+
+    .sobre__descricao{
+        font-size: 1rem;
+    }
+}
